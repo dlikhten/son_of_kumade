@@ -1,0 +1,2 @@
+module SonOfKumade
+end
