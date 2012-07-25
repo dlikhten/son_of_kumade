@@ -1,6 +1,6 @@
 # Why?
 
-Son of Kumade is inspired by [Kumade](www.github.com/thoughtbot/kumade), except my goal is to make it much simpler, but have some very useful features
+Son of Kumade is inspired by [Kumade](http://www.github.com/thoughtbot/kumade), except my goal is to make it much simpler, but have some very useful features
 
 # What's so special about this crap, can't I just git push it all?
 
